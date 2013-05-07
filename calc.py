@@ -21,3 +21,5 @@ sumsqdiffs = sum(diffs) / float(len(x))
 print 'the average is', avg, 'and sumsqdiffs is', sumsqdiffs
 print 'stddev is', stddev
 print 'sum sq diffs', sumsqdiffs #adding a comment
+print 'add a line'
+
